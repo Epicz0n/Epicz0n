@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Epicz0n
 - 👀 I’m interested in Cyber Security research
-- 🌱 I’m intersted learning programming languages 
+- 🌱 concentration in learning programming and software development 
 
 
 <!---
